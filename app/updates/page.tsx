@@ -92,7 +92,42 @@ export default function CampaignUpdatesPage() {
                   <strong className="text-yellow-400">August 6:</strong>{" "}
                   Brandon / Riverview Chamber Candidate Connection
                 </p>
+<a
+  href="https://www.military.com/20-year-navy-veteran-third-party-congressional-bid-to-tackle-benefits-mental-health"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="group block h-full rounded-2xl focus:outline-none focus:ring-2 focus:ring-yellow-400 focus:ring-offset-2 focus:ring-offset-slate-900"
+>
+  <article className="flex h-full flex-col rounded-2xl border border-slate-700 bg-slate-800 p-7 shadow-lg transition group-hover:border-yellow-400">
+    <div className="mb-4 flex flex-wrap items-center gap-3 text-sm">
+      <span className="font-semibold uppercase tracking-wider text-yellow-400">
+        In the News
+      </span>
 
+      <span className="text-gray-400">
+        Military.com · August 11, 2026
+      </span>
+    </div>
+
+    <h2 className="text-2xl font-bold leading-tight text-white">
+      Navy Veteran&apos;s Third-Party Congressional Bid Tackles VA Benefits,
+      Mental Health
+    </h2>
+
+    <p className="mt-4 flex-1 leading-7 text-gray-300">
+      Military.com profiles Brian Lambert&apos;s campaign and his focus on
+      veterans&apos; earned benefits, VA accountability, and the veteran
+      mental-health crisis.
+    </p>
+
+    <span className="mt-6 inline-flex font-semibold text-yellow-400 transition group-hover:text-yellow-300">
+      Read the Military.com story
+      <span aria-hidden="true" className="ml-2">
+        ↗
+      </span>
+    </span>
+  </article>
+</a>
                 <p>
                   <strong className="text-yellow-400">August 11:</strong>{" "}
                   Tampa Bay Chamber Political Hob Nob — Table 27
