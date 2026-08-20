@@ -115,6 +115,79 @@ export default function CampaignUpdatesPage() {
               </div>
             </article>
 
+                        <a
+              href="https://www.youtube.com/live/0TVadjplsuo?si=kQJ6zAIHE6vgxWUi"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group block h-full rounded-2xl focus:outline-none focus:ring-2 focus:ring-yellow-400 focus:ring-offset-2 focus:ring-offset-slate-900"
+            >
+              <article className="flex h-full flex-col rounded-2xl border border-slate-700 bg-slate-800 p-7 shadow-lg transition group-hover:border-yellow-400">
+                <div className="mb-4 flex flex-wrap items-center gap-3 text-sm">
+                  <span className="font-semibold uppercase tracking-wider text-yellow-400">
+                    Campaign Interview
+                  </span>
+
+                  <span className="text-gray-400">
+                    Libertarian Leadership Academy · August 19, 2026
+                  </span>
+                </div>
+
+                <h2 className="text-2xl font-bold leading-tight text-white">
+                  Brian Lambert Joins Libertarian Leadership Academy
+                </h2>
+
+                <p className="mt-4 flex-1 leading-7 text-gray-300">
+                  Brian Lambert joins Libertarian Leadership Academy for a live
+                  discussion about his campaign for Congress, constitutional
+                  government, individual liberty, and bringing service-first
+                  leadership to Washington.
+                </p>
+
+                <span className="mt-6 inline-flex font-semibold text-yellow-400 transition group-hover:text-yellow-300">
+                  Watch the interview
+                  <span aria-hidden="true" className="ml-2">
+                    ↗
+                  </span>
+                </span>
+              </article>
+            </a>
+
+            <a
+              href="https://www.youtube.com/live/R4ohn2kyYBY?si=skeDtKSQTG1NLNYR"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group block h-full rounded-2xl focus:outline-none focus:ring-2 focus:ring-yellow-400 focus:ring-offset-2 focus:ring-offset-slate-900"
+            >
+              <article className="flex h-full flex-col rounded-2xl border border-slate-700 bg-slate-800 p-7 shadow-lg transition group-hover:border-yellow-400">
+                <div className="mb-4 flex flex-wrap items-center gap-3 text-sm">
+                  <span className="font-semibold uppercase tracking-wider text-yellow-400">
+                    Campaign Interview
+                  </span>
+
+                  <span className="text-gray-400">
+                    LibertyDad Podcast · August 18, 2026
+                  </span>
+                </div>
+
+                <h2 className="text-2xl font-bold leading-tight text-white">
+                  Brian Lambert Joins the LibertyDad Podcast
+                </h2>
+
+                <p className="mt-4 flex-1 leading-7 text-gray-300">
+                  Brian Lambert joins LibertyDad for a conversation about his
+                  campaign for Congress in Florida&apos;s 14th District,
+                  Libertarian principles, constitutional government, and
+                  individual liberty.
+                </p>
+
+                <span className="mt-6 inline-flex font-semibold text-yellow-400 transition group-hover:text-yellow-300">
+                  Watch the interview
+                  <span aria-hidden="true" className="ml-2">
+                    ↗
+                  </span>
+                </span>
+              </article>
+            </a>
             <a
               href="https://www.military.com/20-year-navy-veteran-third-party-congressional-bid-to-tackle-benefits-mental-health"
               target="_blank"
